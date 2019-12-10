@@ -1,0 +1,19 @@
+[package]
+name = "ufcs"
+version = "0.1.0"
+authors = ["xzfc"]
+edition = "2018"
+description = "Helper trait to call free functions using method call syntax"
+repository = "https://github.com/xzfc/ufcs.rs"
+readme = "README.md"
+keywords = ["chaining", "pipe", "pipeline", "simple"]
+categories = ["no-std", "rust-patterns"]
+license = "Unlicense OR MIT"
+
+[badges]
+travis-ci = { repository = "xzfc/ufcs.rs", branch = "master" }
+
+[dependencies]
+
+[dev-dependencies]
+futures = "0.3.1"
