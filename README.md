@@ -2,7 +2,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/ufcs.svg)](https://crates.io/crates/ufcs)
 ![License](https://img.shields.io/crates/l/ufcs.svg)
-[![Build Status](https://travis-ci.org/xzfc/ufcs.rs.svg?branch=master)](https://travis-ci.org/xzfc/ufcs.rs)
+[![Build Status](https://travis-ci.com/xzfc/ufcs.rs.svg?branch=master)](https://travis-ci.com/xzfc/ufcs.rs)
 
 `ufcs::Pipe` — helper trait to call free functions using method call syntax.
 
